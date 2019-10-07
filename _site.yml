@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+      href: https://github.com/flomalherbe/florent-malherbe-blog
+base_url: https://flomalherbe.github.io/florent-malherbe-blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
