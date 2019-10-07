@@ -1,0 +1,22 @@
+---
+title: "Article test"
+description: |
+  A short description of the post.
+author:
+  - name: Florent Malherbe
+    url: {}
+date: 10-07-2019
+preview: images/image.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+![](images/image.jpg)
+blabla test
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
