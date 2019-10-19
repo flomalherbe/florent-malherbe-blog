@@ -1,12 +1,12 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : Spontaneous Generation and the Louis Pasteur Experience"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: Malherbe Florent
+date: 19-10-2019
 categories:
-  - elephant
+  - Louis Paster
   - track
-preview: image/where-s-my-elephant.jpg
+preview: image/Louis pasteur.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -17,28 +17,29 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+![ [Credit: Alex Dissanayake Getty Images](https://www.bing.com/images/search?view=detailV2&ccid=F%2fEp6OXR&id=BC77CD0CE0CC87EC46E27940570429B2509153BE&thid=OIP.F_Ep6OXR8cB6tx44b9fn-AHaI0&mediaurl=http%3a%2f%2f3.bp.blogspot.com%2f-m0563FXtFx0%2fTt_DteD6OlI%2fAAAAAAAA3Ao%2f3S9KPYR7ysM%2fs1600%2fLouis_Pasteur13.jpg&exph=1476&expw=1239&q=image+of+louis+pasteur&simid=608050854427624624&selectedIndex=0) ](image/Louis pasteur.jpg)
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| word from the text | synonym in English     | french Translation                              |     |
+| ------------------ | ---------------------- | ----------------------------------------------- | --- |
+| Abiogenesis        | Spontaneous generation | abiogénèse                                      |     |
+| maggots            | insects                | asticots                                        |     |
+| clever             | smart                  | intelligent                                     |     |
+| flask              | baloon                 | ballon (récipient pour expérience scientifique) |     |
 
 ## Analysis table 
 
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers         | Louis Pasteur, Francesco Redi and others                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | all about science.org                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | the spontaneous generation/apparition of life                                                                                                                                                                                                 |
+| PROCEDURE           | Scientists and especially Louis Pasteur made some experiences to proove that the life doesn't appear spontaneously. That's a step in the research in the origin of life. Louis Pasteur demonstrated that the air had no "reproductive power". |
+| CONCLUSIONS         | Life can't appear with simple molecules and can't be create just in the air                                                                                                                                                                   |
+| REMAINING QUESTIONS | How the life was created on our planet if it's not spontaneous                                                                                                                                                                                |
 
+<https://www.allaboutscience.org/origin-of-life.htm>
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
 
 
 
