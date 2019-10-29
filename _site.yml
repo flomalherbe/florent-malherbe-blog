@@ -14,5 +14,6 @@ navbar:
 base_url: https://flomalherbe.github.io/florent-malherbe-blog
 collections:
     posts:
+      disqus: florent-malherbe-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
