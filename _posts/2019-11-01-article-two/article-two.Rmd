@@ -1,0 +1,46 @@
+---
+title: "What are the different theories on the origin of life?"
+description: |
+  In this article we will talk about the differents theories on the origin of life.
+author:
+  - name: Florent Malherbe
+    url: {}
+date: 11-01-2019
+preview: earth image 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r}
+![](earth image)
+```
+
+
+#####Words : 813
+
+##Vocabulary
+
+##Analysis table
+
+
+| Researchers         | Miller and Urey, Alexander Graham                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | Livescience.com                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | 7 theories of origin of life                                                                                                                                                                                                 |
+| PROCEDURE           | In the article  |
+| CONCLUSIONS         | Life can't appear with simple molecules and can't be create just in the air                                                                                                                                                                   |
+| REMAINING QUESTIONS | How the life was created on our planet if it's not spontaneous                                                                                                                                                                                |
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+<https://www.livescience.com/13363-7-theories-origin-life.html>
+
