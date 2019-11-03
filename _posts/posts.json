@@ -1,0 +1,50 @@
+[
+  {
+    "path": "posts/2019-10-20-article/",
+    "title": "Article 1",
+    "description": "Spontaneous Generation and the Louis Pasteur's Experience.",
+    "author": [
+      {
+        "name": "Florent Malherbe",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-20",
+    "categories": [],
+    "preview": "posts/2019-10-20-article/images/Louis pasteur.jpg",
+    "last_modified": "2019-10-20T18:15:35+02:00"
+  },
+  {
+    "path": "posts/2019-10-07-article-one/",
+    "title": "Article test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Florent Malherbe",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-07",
+    "categories": [],
+    "preview": "posts/2019-10-07-article-one/images/image.jpg",
+    "last_modified": "2019-10-17T21:15:24+02:00"
+  },
+  {
+    "path": "posts/2019-09-18-article-1/",
+    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "description": {},
+    "author": [
+      {
+        "name": "Nicolas Devilez",
+        "url": {}
+      }
+    ],
+    "date": "2019-09-18",
+    "categories": [
+      "elephant",
+      "track"
+    ],
+    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
+    "last_modified": "2019-10-17T21:15:23+02:00"
+  }
+]
