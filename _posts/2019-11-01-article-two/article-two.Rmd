@@ -6,7 +6,7 @@ author:
   - name: Florent Malherbe
     url: {}
 date: 11-01-2019
-preview: earth image 
+preview: images/earth.jpeg 
 output:
   distill::distill_article:
     self_contained: false
@@ -15,32 +15,42 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![](images/earth.jpeg)
 
 
-```{r}
-![](earth image)
-```
+##### Words : 813
 
+## Vocabulary
 
-#####Words : 813
+| word from the text | synonym in english                        | french translation       |
+| ------------------ | ----------------------------------------- | ------------------------ |
+| Dazzling           | shinning                                  | éblouissant              |
+| array              | range                                     | tableau, game            |
+| fill               | furfill                                   | remplir                  |
+| clay               | argil                                     | argile                   |
+| vent               | hole                                      | orifice                  |
+| spewing            | to spew, to spurt                         | crachant, cracher/gicler |
+| sustain            | support                                   | soutenir                 |
+| layer              | stratum                                   | strate, couche           |
+| efficient          | effective                                 | efficace                 |
+| panspermia         | scientific word for a theory of evolution | panspermie               |
 
-##Vocabulary
-
-##Analysis table
+## Analysis table
 
 
 | Researchers         | Miller and Urey, Alexander Graham                                                                                                                                                                                                      |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | PUBLISHED IN        | Livescience.com                                                                                                                                                                                                                         |
 | GENERAL TOPIC       | 7 theories of origin of life                                                                                                                                                                                                 |
-| PROCEDURE           | In the article  |
-| CONCLUSIONS         | Life can't appear with simple molecules and can't be create just in the air                                                                                                                                                                   |
-| REMAINING QUESTIONS | How the life was created on our planet if it's not spontaneous                                                                                                                                                                                |
+| PROCEDURE           | In the article, the writter(s) of this text pressents 7 differens theories of the origin of life. There go from the theory of the electric sparkles to the theory of life and molecules on the clay. All those theories could be true or could be false, we don't know exactly how life appears but in the next article we will explore those theories. The theory of Miller and Urey has been proved so this theory is possible. An other theory says that an extraterrest meteor brought life on earth billions of year ago with resistant bacteria and cells on the meteor.                                                                                                                                                                   |
+| CONCLUSIONS         | Life could be bring by differents mode and consider that there is one only theory of apparition of life is too simple.                                                                                                                                                                   |
+| REMAINING QUESTIONS | What is (are) the correct(s) theory(ies) of the apparition of life and how is(are) it(they) studying right now ?                                                                                                                                                                                |
 
 
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
+###### link of the website's article::
 <https://www.livescience.com/13363-7-theories-origin-life.html>
 
