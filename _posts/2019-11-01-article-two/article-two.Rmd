@@ -1,5 +1,5 @@
 ---
-title: "What are the different theories on the origin of life?"
+title: "Article 2 : What are the different theories on the origin of life?"
 description: |
   In this article we will talk about the differents theories on the origin of life.
 author:
@@ -45,6 +45,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | PROCEDURE           | In the article, the writter(s) of this text pressents 7 differens theories of the origin of life. There go from the theory of the electric sparkles to the theory of life and molecules on the clay. All those theories could be true or could be false, we don't know exactly how life appears but in the next article we will explore those theories. The theory of Miller and Urey has been proved so this theory is possible. An other theory says that an extraterrest meteor brought life on earth billions of year ago with resistant bacteria and cells on the meteor.                                                                                                                                                                   |
 | CONCLUSIONS         | Life could be bring by differents mode and consider that there is one only theory of apparition of life is too simple.                                                                                                                                                                   |
 | REMAINING QUESTIONS | What is (are) the correct(s) theory(ies) of the apparition of life and how is(are) it(they) studying right now ?                                                                                                                                                                                |
+
 
 
 Distill is a publication format for scientific and technical writing, native to the web.
