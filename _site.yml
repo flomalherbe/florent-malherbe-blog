@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/flomalherbe/florent-malherbe-blog
-base_url: https://flomalherbe.github.io/florent-malherbe-blog
+base_url: distill
 collections:
     posts:
       disqus: florent-blog

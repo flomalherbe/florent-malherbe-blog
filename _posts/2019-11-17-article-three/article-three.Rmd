@@ -1,0 +1,53 @@
+---
+title: "Article 3 : life started with an electric spark"
+description: |
+  We will focus on the theory of the electric spark and how the volcanic eruptions combine with lightning to create life.
+author:
+  - name: Florent Malherbe
+    url: {}
+date: 11-17-2019
+preview: image/volcanic lightning.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://www.google.be/imgres?imgurl=https%3A%2F%2Fstatic.scientificamerican.com%2Fsciam%2Fcache%2Ffile%2FFCDE4F74-6541-4594-A55A1FFF40DD3E62_source.jpg%3Fw%3D590%26h%3D800%26FB94E4D5-3194-4A76-BD3CA4B509F93F5A&imgrefurl=https%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fglass-spheres-forged-by-volcanic-lightning-offer-clues-about-eruptions%2F&docid=r73zGm05FaQlOM&tbnid=HWVpkP2DKBygaM%3A&vet=10ahUKEwi-_IGA-vDlAhWDbFAKHbr1A8MQMwhHKAAwAA..i&w=590&h=394&client=ubuntu&bih=790&biw=1111&q=electric%20sparks%20with%20volcans&ved=0ahUKEwi-_IGA-vDlAhWDbFAKHbr1A8MQMwhHKAAwAA&iact=mrc&uact=8)] (image/volcanic lightning.jpg)
+
+#### link website : <https://www.nasa.gov/topics/earth/features/volcanic_life_origin.html>
+#### Words 848
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| samples            | specimen                                  | échantillons                  |
+| funded/to fund     | to save                                   | financé/ assurer le finacement|
+| zapped             | destroyed/supressed                       | ravagé/supprimé               |
+| steam              | reek/vapor                                | vapeur                        |
+| compounds          | composites                                | les composés                  |
+| to glance          | to take a look                            | jeter un coup d'oeil          |
+| tidal              | tidal waves                               | marée                         |
+| pools              | tank/basin                                | réservoir, bassin             |
+| to occur           | to happen                                 | se produire                   |
+
+## Analysis table
+
+| Researchers         | Bill Steigerwald, Adam Johnson, Stanley Miller                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | NASA.gov                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | creation of amino acids and life with electric spark                                                                                                                                                                                                 |
+| PROCEDURE           | The writer explain the theory and the experiment of electric spark. He explains first that in the ancient atmosphere the common molecules were hydrogen, methane, and ammonia, so that atmosphere's molecules was zapped and with interractions in water amino acids appeared. The article also says that the spark provided the energy for the molecules to recombine into amino acids. The volcanic clouds are composed of the same molecules of the atmosphere so when there is lightning in volcanic clouds there can be amino acids. Amino acids combine to make proteins.                                                                                                                                                                    |
+| CONCLUSIONS         | In this theory there were no life without spark. Amino acids are importants molecules in the apparition of life. Volcans can be life's precursors                                                                                                                                                                    |
+| REMAINING QUESTIONS | How can be sure that's the right theory of the origin of life? we will explore more theories in the others article                                                                                                                                                                                |
+
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
