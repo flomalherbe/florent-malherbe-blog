@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](https://www.google.be/imgres?imgurl=https%3A%2F%2Fstatic.scientificamerican.com%2Fsciam%2Fcache%2Ffile%2FFCDE4F74-6541-4594-A55A1FFF40DD3E62_source.jpg%3Fw%3D590%26h%3D800%26FB94E4D5-3194-4A76-BD3CA4B509F93F5A&imgrefurl=https%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fglass-spheres-forged-by-volcanic-lightning-offer-clues-about-eruptions%2F&docid=r73zGm05FaQlOM&tbnid=HWVpkP2DKBygaM%3A&vet=10ahUKEwi-_IGA-vDlAhWDbFAKHbr1A8MQMwhHKAAwAA..i&w=590&h=394&client=ubuntu&bih=790&biw=1111&q=electric%20sparks%20with%20volcans&ved=0ahUKEwi-_IGA-vDlAhWDbFAKHbr1A8MQMwhHKAAwAA&iact=mrc&uact=8)] (image/volcanic lightning.jpg)
+![](image/volcanic lightning.jpg)
 
 #### link website : <https://www.nasa.gov/topics/earth/features/volcanic_life_origin.html>
 #### Words 848
