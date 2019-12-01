@@ -1,0 +1,56 @@
+---
+title: "Article 4 : Theory of Panspermia "
+description: |
+  In this article we will talk about the theory of the apparition of life beginning from a meteor or something wich came from space.
+author:
+  - name: Florent Malherbe
+    url: {}
+date: 12-01-2019
+preview : image/171213_vod_orig_meteor_16x9_992.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://s.abcnews.com/images/GMA/171213_vod_orig_meteor_16x9_992.jpg)
+
+#### link of website : https://science.howstuffworks.com/life/evolution/origin-of-life-on-earth4.htm
+
+#### words : 384
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| Taxonomy           | the name of a biology repertory           | Taxonomie                     |
+| to seed,seeded     | to sow, to stock                          | enssemencer                   |
+| broad              | wide, large, ample                        | vaste                         |
+| purposefully       | who serve a purpose                       | à dessein de                  |
+| to remain          | to stay , to keep                         | rester                        |
+| hosting            | welcoming, receiving                      | hébergement                   |
+| despite            | in spite of                               | malgrè                        |
+| abiogenesis        | a biology theory                          | Abiogènése                    |
+| fossilized         | from the verb to fossilize                | fossilisé                     |
+| chunks             | lump, hunk                                | morceaux                      |
+
+## Analysis table
+
+| Researchers         | Stephen Hawking, Sir Francis Crick and others                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | Howstuffworks                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | life originated of a extraterrester meteor or something else and traveled to our planet, take place in a good climate and eventually evolve into life on Earth                                                                                                                                                                                                 |
+| PROCEDURE           | This theory is not the main theory of the creation of life however this is a good and acceptable theory. It has been prooved that bacterials cells can survive on meteor. This article explains the fact that rocks that we maybe received years ago to bring and create life on our planet would came more likely from Mars because of the arrangement of the orbits of Mars and Earth.                                                                                                                                                                     |
+| CONCLUSIONS         | This theory is interesting but not only prooved it's on researching now with rocks of Mars.                                                                                                                                                                    |
+| REMAINING QUESTIONS | If two of the theory The sparkles one and the Panspermia has been prooved as good precursors of life wich one is the better and the right answer of our origins?                                                                                                                                                                                 |
+
+
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
