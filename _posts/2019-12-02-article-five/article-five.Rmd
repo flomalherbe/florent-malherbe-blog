@@ -1,0 +1,55 @@
+---
+title: "Article 5 : The theory of Molecules of life met on clay"
+description: |
+  Clay may have been birthplace of life on Earth.
+author:
+  - name: Florent Malherbe
+    url: {}
+date: 12-02-2019
+preview : image/clay-mountain.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://aboutkazakhstan.com/blog/wp-content/uploads/2015/03/aktau-clay-mountains-altyn-emel-park-kazakhstan-2-small.jpg)
+
+#### link website : <https://www.sciencedaily.com/releases/2013/11/131105132027.htm>
+
+#### words : 550
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| soaking, to soak   | to dip, to steep                          | tremper                       |
+| to surround        | to enclose, to encircle                   | entourer                      |
+| fill               | fulfill, replenish                        | remplir                       |
+| to further         | to promote                                | faire avancer                 |
+| vat                | tub, cistern                              | la cuve                       |
+| to enhance         | to improve, to ameliorate                 | améliorer                     |
+| to occur           | to happen                                 | se produire                   |
+| harsh              | tough, hard                               | dur                           |
+| dismantle          | tear down, demolish                       | démanteler                    |
+| to leach           | to screen, to filtrate                    | filtrer                       |
+
+## Analysis table
+
+| Researchers         | Dan Luo, Dayong Yang, Max Lu                                                                                                                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | Science Daily                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | Life, proteins and the begining of the cells membrane was create in clay.                                                                                                                                                                                                  |
+| PROCEDURE           | Clay hydrogel can provide a good environnement to biochimical reactions. It explains why proteins could be found in clay. The clay would have also a role of protection of these proteins before the cell membrane comes to surround it. So in the theory of life appeared in water the cell and the essential proteins for it would not be protect as good as in the clay. Many experiences have been done and prooved that hydrogel clay gives proteins, DNA, amino acids, the right enzymes,... An other fact that can shows that clay is the origin of life is that the cytoplasm (intracell liquid) is more likely like the hydrogel clay.                                                                                                                                                                      |
+| CONCLUSIONS         | Clay might be the birth of the first cell and has many advantage to the primitive cell                                                                                                                                                                    |
+| REMAINING QUESTIONS | how biological machines and cells with autoreplication can be create and can evolved in the clay?                                                                                                                                                                                 |
+
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
