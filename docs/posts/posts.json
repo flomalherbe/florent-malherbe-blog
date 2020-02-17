@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2020-02-10-article-six/",
-    "title": "Article 6 : ",
-    "description": "A short description of the post.",
+    "title": "Article 6 : The importance of the moon for the life on earth",
+    "description": "In this article we will see why the moon is important for the life.",
     "author": [
       {
         "name": "Florent Malherbe",
@@ -12,7 +12,7 @@
     "date": "2020-02-10",
     "categories": [],
     "preview": "posts/2020-02-10-article-six/image/Moon.jpg",
-    "last_modified": "2020-02-10T17:58:17+01:00"
+    "last_modified": "2020-02-17T12:27:52+01:00"
   },
   {
     "path": "posts/2019-12-02-article-five/",

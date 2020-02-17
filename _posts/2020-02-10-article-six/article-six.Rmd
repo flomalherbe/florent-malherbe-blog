@@ -1,7 +1,7 @@
 ---
-title: "Article 6 : "
+title: "Article 6 : The importance of the moon for the life on earth"
 description: |
-  A short description of the post.
+  In this article we will see why the moon is important for the life.
 author:
   - name: Florent Malherbe
     url: {}
@@ -17,35 +17,34 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-
 #### link website : <>
 
-#### words : 550
+#### words : 630
 
 ## Vocabulary
 
 | word from the text | synonym in english                        | french translation            |
 | ------------------ | ----------------------------------------- | ----------------------------- |
-| soaking, to soak   | to dip, to steep                          | tremper                       |
-| to surround        | to enclose, to encircle                   | entourer                      |
-| fill               | fulfill, replenish                        | remplir                       |
-| to further         | to promote                                | faire avancer                 |
-| vat                | tub, cistern                              | la cuve                       |
-| to enhance         | to improve, to ameliorate                 | améliorer                     |
-| to occur           | to happen                                 | se produire                   |
-| harsh              | tough, hard                               | dur                           |
-| dismantle          | tear down, demolish                       | démanteler                    |
-| to leach           | to screen, to filtrate                    | filtrer                       |
+| fittinly           | fitly, suitably                           | convenablement                |
+| beneath            | underneath                                | sous                          |
+| tides              | tidewater, tidal flow                     | marées                        |
+| wobbles            | totter, tremor                            | vacille                       |
+| forth              | onward                                    | en avant                      |
+| spin, to spin      | trip, to revolve                          | tour, tourner                 |
+| (to)pinpoint       | to identify, spot                         | localiser, localisation       |
+| flails, to flail   | to wave, to swing                         | fléaux                        |
+| undergone          | to undergo, to go through                 | subir, subi                   |
+| loony              | barmy, whacky                             | cinglé                        |
 
 ## Analysis table
 
-| Researchers         | Dan Luo, Dayong Yang, Max Lu                                                                                                                                                                                                       |
+| Researchers         | Kaare Aksnes, Terje Wahl                                                                                                                                                                                                       |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PUBLISHED IN        | Science Daily                                                                                                                                                                                                                         |
-| GENERAL TOPIC       | Life, proteins and the begining of the cells membrane was create in clay.                                                                                                                                                                                                  |
-| PROCEDURE           | Clay hydrogel can provide a good environnement to biochimical reactions. It explains why proteins could be found in clay. The clay would have also a role of protection of these proteins before the cell membrane comes to surround it. So in the theory of life appeared in water the cell and the essential proteins for it would not be protect as good as in the clay. Many experiences have been done and prooved that hydrogel clay gives proteins, DNA, amino acids, the right enzymes,... An other fact that can shows that clay is the origin of life is that the cytoplasm (intracell liquid) is more likely like the hydrogel clay.                                                                                                                                                                      |
-| CONCLUSIONS         | Clay might be the birth of the first cell and has many advantage to the primitive cell                                                                                                                                                                    |
-| REMAINING QUESTIONS | how biological machines and cells with autoreplication can be create and can evolved in the clay?                                                                                                                                                                                 |
+| PUBLISHED IN        | Sciencenorway                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | The moon consequences for the life on earth                                                                                                                                                                                 |
+| PROCEDURE           | The moon influences some earth mechanisms and influence the climate. For example the moon has relations with the tides and forward the biological life of seas. Moon stabalises also the earth and forces our planet to stay in his orbit around the sun. The scientist in this article says that we could survive without the moon but the life would be very different. The article also says that the moon is leaving the earth four centimeters by years.                                                                                                                                                                        |
+| CONCLUSIONS         | Without the moon the appiration of life would be different because the general conditions of life would be different (climate, the earth's orbit around the sun,...)                                                                                                                                                                    |
+| REMAINING QUESTIONS | How the rotation of the earth around the sun will react at the lost of the moon? Would the orbit of the earth will be infintly stable?                                                                                                                                                                                 |
 
 
 
