@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-28-article-seven/",
+    "title": "Article 7 : the importance of the sun in the apparition of life",
+    "description": "This article will talk about the reasons the sun was essential to the apparition of life",
+    "author": [
+      {
+        "name": "Florent Malherbe",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-28",
+    "categories": [],
+    "preview": "posts/2020-02-28-article-seven/image/sun.jfif",
+    "last_modified": "2020-02-28T14:30:30+01:00"
+  },
+  {
     "path": "posts/2020-02-10-article-six/",
     "title": "Article 6 : The importance of the moon for the life on earth",
     "description": "In this article we will see why the moon is important for the life.",

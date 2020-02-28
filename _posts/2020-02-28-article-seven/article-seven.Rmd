@@ -1,0 +1,56 @@
+---
+title: "Article 7 : the importance of the sun in the apparition of life"
+description: |
+  This article will talk about the reasons the sun was essential to the apparition of life
+author:
+  - name: Florent Malherbe
+    url: {}
+date: 02-28-2020
+preview : image/sun.jfif
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://ichef.bbci.co.uk/images/ic/640x360/p0222n9d.jpg)
+
+#### link website : <https://www.cbsnews.com/news/how-the-sun-helped-spark-life-on-earth/>
+
+#### words : 525
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| to hazard          | to risk                                   | risquer                       |
+| prebiotic          | prebiotic fiber                           | prébiotique                   |
+| jolt               | shock, shake                              | secousse                      |
+| to lack            | to miss, shortage                         | manquer de                    |
+| component          | constituent                               | le composant                  |
+| chunks             | lumps, hunks                              | morceaux                      |
+| laden              | loaded,charged                            | chargé                        |
+| pathways           | road, footpath                            | voies                         |
+| yields             | efficiency,output                         | rendements                    |
+| noteworthy         | remarkable, outstanding                   | remarquable                   |
+| broader            | vast, large, wide                         |large, vaste                   |
+
+## Analysis table
+
+| Researchers         | Veronica Vaida, Rebecca Rapf                                                                                                                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | CBS News                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | The radiation and the amount of energy the sun sends to us and the consequences                                                                                                                                                                                                  |
+| PROCEDURE           | Before life began, radiation from the sun was the primary source of energy on our planet, just as it is today. There was less oxygen on the earth and primary molecules. The theory is that sunlight has been used to build complex molecules. Sunlight might be considered as an energetic driver in the synthesis of molecules necessary for life. The lack of oxygen in the early atmosphere means that more high-energy ultraviolet radiation from the sun would have reached the surface of the prebiotic Earth than today, where it is filtered by ozone. The sunlight was used as a way of building bigger molecules, but in order to be useful to the development of biology any molecules you build have to be stable enough to exist in the environment. In the case of 2-oxooctanoic acid (a primary molecules in the early earth), the product, dihexyltartaric acid, does not absorb the same UV light and therefore, is protected from undergoing further photochemistry (chemical reactions as a result of sunlight). These double-tailed lipids also spontaneously assemble into membrane-enclosed compartments, resembling simple protocells that are necessary to the evolution of life.                                                                                                                                                                      |
+| CONCLUSIONS         | The UV radiation of the sun has given the energy to let the products of primary molecules or the molecules themself interact together to form parts of cells that will lead to organisms.                                                                                                                                                                    |
+| REMAINING QUESTIONS | What happened if the sun was further or nearer to the earth (amount of energy and UV radiations differents)                                                                                                                                                                                 |
+
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
