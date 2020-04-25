@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 #### link of website :<https://www.allaboutscience.org/origin-of-life.htm>
 #### Words :504
 
-
 ## Vocabulary 
 
 | word from the text | synonym in English     | french Translation                              |     |
