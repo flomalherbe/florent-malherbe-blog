@@ -1,0 +1,231 @@
+---
+title: "Portfolio"
+author: "Florent Malherbe"
+date: "4/25/2020"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Article 1
+
+#### link of website :<https://www.allaboutscience.org/origin-of-life.htm>
+#### Words :504
+
+
+## Vocabulary 
+
+| word from the text | synonym in English     | french Translation                              |     |
+| ------------------ | ---------------------- | ----------------------------------------------- | --- |
+| Abiogenesis        | Spontaneous generation | abiogénèse                                      |     |
+| maggots            | insects                | asticots                                        |     |
+| clever             | smart                  | intelligent                                     |     |
+| flask              | baloon                 | ballon (récipient pour expérience scientifique) |     |
+
+## Analysis table 
+
+| Researchers         | Louis Pasteur, Francesco Redi and others                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | all about science.org                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | the spontaneous generation/apparition of life                                                                                                                                                                                                 |
+| PROCEDURE           | Scientists and especially Louis Pasteur made some experiences to proove that the life doesn't appear spontaneously. That's a step in the research in the origin of life. Louis Pasteur demonstrated that the air had no "reproductive power". |
+| CONCLUSIONS         | Life can't appear with simple molecules and can't be create just in the air                                                                                                                                                                   |
+| REMAINING QUESTIONS | How the life was created on our planet if it's not spontaneous                                                                                                                                                                                |
+
+# Article 2
+
+##### link of the website's article:<https://www.livescience.com/13363-7-theories-origin-life.html>
+
+##### Words : 813
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation       |
+| ------------------ | ----------------------------------------- | ------------------------ |
+| Dazzling           | shinning                                  | éblouissant              |
+| array              | range                                     | tableau, game            |
+| fill               | furfill                                   | remplir                  |
+| clay               | argil                                     | argile                   |
+| vent               | hole                                      | orifice                  |
+| spewing            | to spew, to spurt                         | crachant, cracher/gicler |
+| sustain            | support                                   | soutenir                 |
+| layer              | stratum                                   | strate, couche           |
+| efficient          | effective                                 | efficace                 |
+| panspermia         | scientific word for a theory of evolution | panspermie               |
+
+## Analysis table
+
+
+| Researchers         | Miller and Urey, Alexander Graham                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | Livescience.com                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | 7 theories of origin of life                                                                                                                                                                                                 |
+| PROCEDURE           | In the article, the writter(s) of this text pressents 7 differens theories of the origin of life. There go from the theory of the electric sparkles to the theory of life and molecules on the clay. All those theories could be true or could be false, we don't know exactly how life appears but in the next article we will explore those theories. The theory of Miller and Urey has been proved so this theory is possible. An other theory says that an extraterrest meteor brought life on earth billions of year ago with resistant bacteria and cells on the meteor.                                                                                                                                                                   |
+| CONCLUSIONS         | Life could be bring by differents mode and consider that there is one only theory of apparition of life is too simple.                                                                                                                                                                   |
+| REMAINING QUESTIONS | What is (are) the correct(s) theory(ies) of the apparition of life and how is(are) it(they) studying right now ?                                                                                                                                                                                |
+
+
+# Article 3
+
+#### link website : <https://www.nasa.gov/topics/earth/features/volcanic_life_origin.html>
+#### Words 848
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| samples            | specimen                                  | échantillons                  |
+| funded/to fund     | to save                                   | financé/ assurer le finacement|
+| zapped             | destroyed/supressed                       | ravagé/supprimé               |
+| steam              | reek/vapor                                | vapeur                        |
+| compounds          | composites                                | les composés                  |
+| to glance          | to take a look                            | jeter un coup d'oeil          |
+| tidal              | tidal waves                               | marée                         |
+| pools              | tank/basin                                | réservoir, bassin             |
+| to occur           | to happen                                 | se produire                   |
+
+## Analysis table
+
+| Researchers         | Bill Steigerwald, Adam Johnson, Stanley Miller                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | NASA.gov                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | creation of amino acids and life with electric spark                                                                                                                                                                                                 |
+| PROCEDURE           | The writer explain the theory and the experiment of electric spark. He explains first that in the ancient atmosphere the common molecules were hydrogen, methane, and ammonia, so that atmosphere's molecules was zapped and with interractions in water amino acids appeared. The article also says that the spark provided the energy for the molecules to recombine into amino acids. The volcanic clouds are composed of the same molecules of the atmosphere so when there is lightning in volcanic clouds there can be amino acids. Amino acids combine to make proteins.                                                                                                                                                                    |
+| CONCLUSIONS         | In this theory there were no life without spark. Amino acids are importants molecules in the apparition of life. Volcans can be life's precursors                                                                                                                                                                    |
+| REMAINING QUESTIONS | How can be sure that's the right theory of the origin of life? we will explore more theories in the others article                                                                                                                                                                                |
+
+#Article 4
+
+#### link of website : <https://science.howstuffworks.com/life/evolution/origin-of-life-on-earth4.htm>
+
+#### words : 384
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| Taxonomy           | the name of a biology repertory           | Taxonomie                     |
+| to seed,seeded     | to sow, to stock                          | enssemencer                   |
+| broad              | wide, large, ample                        | vaste                         |
+| purposefully       | who serve a purpose                       | à dessein de                  |
+| to remain          | to stay , to keep                         | rester                        |
+| hosting            | welcoming, receiving                      | hébergement                   |
+| despite            | in spite of                               | malgrè                        |
+| abiogenesis        | a biology theory                          | Abiogènése                    |
+| fossilized         | from the verb to fossilize                | fossilisé                     |
+| chunks             | lump, hunk                                | morceaux                      |
+
+## Analysis table
+
+| Researchers         | Stephen Hawking, Sir Francis Crick and others                                                                                                                                                                                                      |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | Howstuffworks                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | life originated of a extraterrester meteor or something else and traveled to our planet, take place in a good climate and eventually evolve into life on Earth                                                                                                                                                                                                 |
+| PROCEDURE           | This theory is not the main theory of the creation of life however this is a good and acceptable theory. It has been prooved that bacterials cells can survive on meteor. This article explains the fact that rocks that we maybe received years ago to bring and create life on our planet would came more likely from Mars because of the arrangement of the orbits of Mars and Earth.                                                                                                                                                                     |
+| CONCLUSIONS         | This theory is interesting but not only prooved it's on researching now with rocks of Mars.                                                                                                                                                                    |
+| REMAINING QUESTIONS | If two of the theory The sparkles one and the Panspermia has been prooved as good precursors of life wich one is the better and the right answer of our origins?                                                                                                                                                                                 |
+
+
+# Article 5
+
+
+#### link website : <https://www.sciencedaily.com/releases/2013/11/131105132027.htm>
+
+#### words : 550
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| soaking, to soak   | to dip, to steep                          | tremper                       |
+| to surround        | to enclose, to encircle                   | entourer                      |
+| fill               | fulfill, replenish                        | remplir                       |
+| to further         | to promote                                | faire avancer                 |
+| vat                | tub, cistern                              | la cuve                       |
+| to enhance         | to improve, to ameliorate                 | améliorer                     |
+| to occur           | to happen                                 | se produire                   |
+| harsh              | tough, hard                               | dur                           |
+| dismantle          | tear down, demolish                       | démanteler                    |
+| to leach           | to screen, to filtrate                    | filtrer                       |
+
+## Analysis table
+
+| Researchers         | Dan Luo, Dayong Yang, Max Lu                                                                                                                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | Science Daily                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | Life, proteins and the begining of the cells membrane was create in clay.                                                                                                                                                                                                  |
+| PROCEDURE           | Clay hydrogel can provide a good environnement to biochimical reactions. It explains why proteins could be found in clay. The clay would have also a role of protection of these proteins before the cell membrane comes to surround it. So in the theory of life appeared in water the cell and the essential proteins for it would not be protect as good as in the clay. Many experiences have been done and prooved that hydrogel clay gives proteins, DNA, amino acids, the right enzymes,... An other fact that can shows that clay is the origin of life is that the cytoplasm (intracell liquid) is more likely like the hydrogel clay.                                                                                                                                                                      |
+| CONCLUSIONS         | Clay might be the birth of the first cell and has many advantage to the primitive cell                                                                                                                                                                    |
+| REMAINING QUESTIONS | how biological machines and cells with autoreplication can be create and can evolved in the clay?                                                                                                                                                                                 |
+
+
+
+
+# Article 6
+
+
+#### link website : <https://sciencenorway.no/forskningno-norway-planets/what-would-we-do-without-the-moon/1433295>
+
+#### words : 630
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| fittinly           | fitly, suitably                           | convenablement                |
+| beneath            | underneath                                | sous                          |
+| tides              | tidewater, tidal flow                     | marées                        |
+| wobbles            | totter, tremor                            | vacille                       |
+| forth              | onward                                    | en avant                      |
+| spin, to spin      | trip, to revolve                          | tour, tourner                 |
+| (to)pinpoint       | to identify, spot                         | localiser, localisation       |
+| flails, to flail   | to wave, to swing                         | fléaux                        |
+| undergone          | to undergo, to go through                 | subir, subi                   |
+| loony              | barmy, whacky                             | cinglé                        |
+
+## Analysis table
+
+| Researchers         | Kaare Aksnes, Terje Wahl                                                                                                                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | Sciencenorway                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | The moon consequences for the life on earth                                                                                                                                                                                 |
+| PROCEDURE           | The moon influences some earth mechanisms and influence the climate. For example the moon has relations with the tides and forward the biological life of seas. Moon stabalises also the earth and forces our planet to stay in his orbit around the sun. The scientist in this article says that we could survive without the moon but the life would be very different. The article also says that the moon is leaving the earth four centimeters by years.                                                                                                                                                                        |
+| CONCLUSIONS         | Without the moon the appiration of life would be different because the general conditions of life would be different (climate, the earth's orbit around the sun,...)                                                                                                                                                                    |
+| REMAINING QUESTIONS | How the rotation of the earth around the sun will react at the lost of the moon? Would the orbit of the earth will be infintly stable?                                                                                                                                                                                 |
+
+
+# Article 7
+
+#### link website : <https://www.cbsnews.com/news/how-the-sun-helped-spark-life-on-earth/>
+
+#### words : 525
+
+## Vocabulary
+
+| word from the text | synonym in english                        | french translation            |
+| ------------------ | ----------------------------------------- | ----------------------------- |
+| to hazard          | to risk                                   | risquer                       |
+| prebiotic          | prebiotic fiber                           | prébiotique                   |
+| jolt               | shock, shake                              | secousse                      |
+| to lack            | to miss, shortage                         | manquer de                    |
+| component          | constituent                               | le composant                  |
+| chunks             | lumps, hunks                              | morceaux                      |
+| laden              | loaded,charged                            | chargé                        |
+| pathways           | road, footpath                            | voies                         |
+| yields             | efficiency,output                         | rendements                    |
+| noteworthy         | remarkable, outstanding                   | remarquable                   |
+| broader            | vast, large, wide                         |large, vaste                   |
+
+## Analysis table
+
+| Researchers         | Veronica Vaida, Rebecca Rapf                                                                                                                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PUBLISHED IN        | CBS News                                                                                                                                                                                                                         |
+| GENERAL TOPIC       | The radiation and the amount of energy the sun sends to us and the consequences                                                                                                                                                                                                  |
+| PROCEDURE           | Before life began, radiation from the sun was the primary source of energy on our planet, just as it is today. There was less oxygen on the earth and primary molecules. The theory is that sunlight has been used to build complex molecules. Sunlight might be considered as an energetic driver in the synthesis of molecules necessary for life. The lack of oxygen in the early atmosphere means that more high-energy ultraviolet radiation from the sun would have reached the surface of the prebiotic Earth than today, where it is filtered by ozone. The sunlight was used as a way of building bigger molecules, but in order to be useful to the development of biology any molecules you build have to be stable enough to exist in the environment. In the case of 2-oxooctanoic acid (a primary molecules in the early earth), the product, dihexyltartaric acid, does not absorb the same UV light and therefore, is protected from undergoing further photochemistry (chemical reactions as a result of sunlight). These double-tailed lipids also spontaneously assemble into membrane-enclosed compartments, resembling simple protocells that are necessary to the evolution of life.                                                                                                                                                                      |
+| CONCLUSIONS         | The UV radiation of the sun has given the energy to let the products of primary molecules or the molecules themself interact together to form parts of cells that will lead to organisms.                                                                                                                                                                    |
+| REMAINING QUESTIONS | What happened if the sun was further or nearer to the earth (amount of energy and UV radiations differents)                                                                                                                                                                                 |
